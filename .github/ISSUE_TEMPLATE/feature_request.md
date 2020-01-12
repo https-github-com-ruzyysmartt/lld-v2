@@ -1,12 +1,20 @@
 ---
-name: ✨ Feature Request
-about: "Any feature you find missing in Ledger Live? Discuss to suggest feature requests. For crypto asset support, please read Issue #1560"
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
-- [ ] I have checked this feature was not yet requested.
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-<!-- DESCRIPTION: Explain precisely what is the feature about. One topic at a time. use more issues if needed -->
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-#### Part of the application
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
-<!-- what part of the application would be impacted by this feature? -->
+**Additional context**
+Add any other context or screenshots about the feature request here.

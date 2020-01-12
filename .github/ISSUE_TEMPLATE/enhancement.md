@@ -1,6 +1,11 @@
 ---
-name: 🗣 Start a Discussion
-about: Discuss changes to improve the state of Ledger Live. Please keep one issue per topic.
+name: "\U0001F5E3 Start a Discussion"
+about: Discuss changes to improve the state of Ledger Live. Please keep one issue
+  per topic.
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 <!-- DESCRIPTION: Explain precisely what you think should be improved and how you think it should work -->

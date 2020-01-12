@@ -1,6 +1,9 @@
 ---
-name: 💬 Question
+name: "\U0001F4AC Question"
 about: If you need help using the app, please contact the support at https://support.ledgerwallet.com/
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
